@@ -1,0 +1,49 @@
+{
+  "fixed_seed": 7,
+  "split": {
+    "train_sub_n": 1635,
+    "validation_n_unused": 545,
+    "test_n_unused": 545
+  },
+  "primary_scoring": "average_precision",
+  "cv_folds": 5,
+  "min_features_to_select": 2,
+  "optimal_n_features": 13,
+  "best_cv_score": 0.10457743989157187,
+  "selected_features": [
+    "Sex",
+    "ASA score",
+    "cardiovascular morbidity",
+    "prior abdominal surgery",
+    "EMVI",
+    "MRF",
+    "tumor_response",
+    "ycT",
+    "ycN",
+    "Type of technique",
+    "procedure type",
+    "stapler used for",
+    "stpler type"
+  ],
+  "xgb_params_used": {
+    "n_estimators": 306,
+    "learning_rate": 0.013296817345295257,
+    "max_depth": 5,
+    "subsample": 0.9638374110878455,
+    "colsample_bytree": 0.7523764532594154
+  },
+  "data_leakage_guard": {
+    "used_for_rfecv": [
+      "X_train_sub",
+      "y_train_sub"
+    ],
+    "not_used_for_rfecv": [
+      "X_valid",
+      "y_valid",
+      "X_test",
+      "y_test",
+      "internal_temporal",
+      "KNU_external"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+﻿cv_auroc,auroc,auprc,f2_score,recall,precision,brier,threshold,calibration,institution,seed,n_total,n_train_sub,n_validation,n_train_full,n_test,events_total,events_test,best_params
+0.5672556993928286,0.6945402298850575,0.1627733781414893,0.32142857142857145,0.75,0.09782608695652174,0.06820988439566944,0.05,isotonic,KNUH,7,781,468,156,624,157,62,12,"{'model__colsample_bytree': 0.7523764532594154, 'model__learning_rate': 0.013296817345295257, 'model__max_depth': 5, 'model__n_estimators': 306, 'model__subsample': 0.9638374110878455}"

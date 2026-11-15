@@ -1,0 +1,31 @@
+﻿feature,selected,ranking,elimination_step
+ASA score,True,1,
+EMVI,True,1,
+MRF,True,1,
+Sex,True,1,
+Type of technique,True,1,
+cardiovascular morbidity,True,1,
+prior abdominal surgery,True,1,
+procedure type,True,1,
+stapler used for,True,1,
+stpler type,True,1,
+tumor_response,True,1,
+ycN,True,1,
+ycT,True,1,
+DM,False,14,17.0
+yMRF,False,15,16.0
+tm height from ARJ,False,16,15.0
+GFR1_MDRD,False,17,14.0
+optime,False,18,13.0
+prior malignancy,False,19,12.0
+PLT,False,20,11.0
+Hb,False,21,10.0
+WBC,False,22,9.0
+glucose,False,23,8.0
+AGR,False,24,7.0
+Time to surgery,False,25,6.0
+neoadj tx,False,26,5.0
+Age,False,27,4.0
+BMI,False,28,3.0
+conversion,False,29,2.0
+stapler used,False,30,1.0
