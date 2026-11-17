@@ -14,6 +14,8 @@
 - Park/Zhao 가져오기용 RIS 작성. [references README](../references/README.md) 참조.
 
 ## 바로 다음 작업
+- Ochs 원문 검토 완료: 총9120명·34개·F1 .87/.70 일치. 엄격한 preoperative-only 예시로 연결하는 Intro/Discussion 두 문장은 최소 수정 권장. [대조 결과 및 11/18 순서](../references/reviews/2026-11-17_Ochs_citation_check.md) 참조. 사용자의 이번 우선 범위는 새 번호체계와 내용 적절성 확인이며 EndNote 서식 정리와 구분.
+
 1. 최신 업로드 AL_1115.docx 인용 재점검 완료: EndNote 필드 및 Park/Zhao DOI, Riley/Collins 반영 확인. 이전 같은 이름 파일의 미연결 상태와 구분.
 2. [최신 인용 점검 기록](../references/reviews/2026-11-17_manuscript_citation_recheck.md)에 따라 수기14개/자동16개 목록 중복, Methods TRIPOD+AI 번호12→Collins 레코드, 저널 누락·DOI의 %J 잔재 등을 EndNote/Word에서 정리.
 3. Discussion Need reference 문장별 근거와 일반화 범위를 최소 수정 원칙으로 논의. 자체 자료와 외부 근거/가설 구분.
