@@ -14,12 +14,10 @@
 - Park/Zhao 가져오기용 RIS 작성. [references README](../references/README.md) 참조.
 
 ## 바로 다음 작업
-1. EndNote 라이브러리 백업 후 RIS의 Park/Zhao를 가져오기. 잘못된 기존 레코드와 중복 정리.
-2. 기존 원고 문헌11 Riley2024 part2,12 Collins2024 TRIPOD+AI가 라이브러리에 있는지 확인/추가. 다른 레코드의 저자/저널 필드도 가져오기 형식 점검.
-3. Word 복사본에서 EndNote CWYW로 인용 연결. 현재 업로드 Word에는 인용 필드가 검출되지 않음. 기존 일반 텍스트 목록과 새 자동 목록 중복 방지.
-4. Intro에 COLRAR를 주 supporting source로, 필요시 Zhao를 보조로 삽입. 원래 high-volume centre/particularly Asia 표현의 범위는 저자와 최종 합의. 실제 근거는 수술자 workload/experience이며 지역간 비교 아님.
-5. Discussion Need reference는 별도 문장별 검토: 경험/술기 근거, 자체 자료의 제한된 변이, 가능한 해석을 분리. 부족한 근거로 인과관계를 단정하지 않기.
-6. 최종 원고 대조, 참고문헌/표·그림/제출 정보·clean copy 정리. 순서대로 사용자와 검토.
+1. 최신 업로드 AL_1115.docx 인용 재점검 완료: EndNote 필드 및 Park/Zhao DOI, Riley/Collins 반영 확인. 이전 같은 이름 파일의 미연결 상태와 구분.
+2. [최신 인용 점검 기록](../references/reviews/2026-11-17_manuscript_citation_recheck.md)에 따라 수기14개/자동16개 목록 중복, Methods TRIPOD+AI 번호12→Collins 레코드, 저널 누락·DOI의 %J 잔재 등을 EndNote/Word에서 정리.
+3. Discussion Need reference 문장별 근거와 일반화 범위를 최소 수정 원칙으로 논의. 자체 자료와 외부 근거/가설 구분.
+4. 최종 원고 대조, 참고문헌/표·그림/제출 정보·clean copy 정리.
 
 ## 외부 확인 대기
 - Table2: AMC/KNUH Preop AUROC CI2개와 Full−Preop 차이 paired CI2개. Discussion의 대응 [##]와 일치시켜야 함.
