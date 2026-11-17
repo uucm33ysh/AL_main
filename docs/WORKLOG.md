@@ -1,0 +1,19 @@
+# 작업 이력 — 시간순
+
+기준 시간대: Asia/Seoul. 아래 과거 이력은 2026-11-17에 기존 대화와 산출물을 바탕으로 재구성했습니다. 날짜가 불명확한 세부 작업에는 임의 시각을 부여하지 않았습니다. 메일의 연구 이력과 현재 원고 편집 작업을 구분합니다.
+
+| 날짜 | 작업/결정 | 상태·후속 작업 |
+|---|---|---|
+| 2026-11-05 | Colab 노트북·원자료를 검토하고 환경을 준비. 별도 탐색 분석도 수행 | 현재 논문은 김하연 결과만 사용. 별도 spline 및 assistant 재학습 산출물은 인용/수치 대체에서 제외 |
+| 2026-11-12 | 교수님의 11/11 지도를 기준으로 새 모델 확장보다 기존 연구 마무리에 집중 | 전처리 재검토는 현재 작성 업무에서 제외. 미확인 방법을 문헌/메일로 추정하지 않음 |
+| 2026-11-13 | AL_1113 중간본 검토. 기관별·통합 분석의 Methods/Results 추가 및 Supplementary 구성 논의 | 본문 Figure1/2, 보충 eFigure1/2 유지 |
+| 2026-11-15 | eFigure/표 legend·약어, 최소 Discussion 수정, prospective future work 정리 | 수술자/tension/혈류/출혈량 및 장루·모니터링의 전향적 평가를 후속 방향으로 반영 |
+| 2026-11-15 | KNUH baseline Colab 노트북 게시, 사용자 실행 산출물 대조 | Table1 KNUH781명/AL62건 등 채움. CSV/Excel 일치 확인 |
+| 2026-11-15 | 업로드된 validation CSV와 저장 예측확률을 대조 | seed7 Brier .3234608… → .323. 별도 final temporal Brier의 출처는 확인 대기 |
+| 2026-11-15 | CI·temporal 결과 확인 요청 메일 문안 준비 | 발송/회신 완료로 간주하지 않음. Table2 CI4개 및 Discussion 대응 빈칸 대기 |
+| 2026-11-17 | 기존 문헌 PDF 및 REAL/EssentiAL 원문 검토. 인용 추적 방식으로 확대 | geography/volume/숙련도를 구분하고 원문 직접 근거 탐색 |
+| 2026-11-17 | REAL·Sakamoto 참고문헌을 거쳐 Xu/Zhao/COLRAR 원문 확인 | Intro supporting reference로 COLRAR 우선, Zhao 보조. 인과/지역 우월성 주장 아님 |
+| 2026-11-17 | AL.enl 및 AL_1115.docx 점검, Park/Zhao 수정용 RIS 준비 | 원문 문헌2개 존재하나 서지정보 보완·Riley/Collins 추가 여부·Word 연결 필요 |
+| 2026-11-17 | 사용자 요청으로 RIS·근거표·작업 기록을 GitHub 관리 구조로 정리 | [일별 상세 기록](worklogs/2026-11-17.md) 참조 |
+
+다음 세션의 시작점은 [STATUS](STATUS.md)입니다.
