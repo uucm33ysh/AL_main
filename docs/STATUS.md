@@ -21,11 +21,12 @@
 3. Discussion Need reference 문장별 근거와 일반화 범위를 최소 수정 원칙으로 논의. 자체 자료와 외부 근거/가설 구분.
 4. 최종 원고 대조, 참고문헌/표·그림/제출 정보·clean copy 정리.
 
-## 외부 확인 대기
-- Table2: AMC/KNUH Preop AUROC CI2개와 Full−Preop 차이 paired CI2개. Discussion의 대응 [##]와 일치시켜야 함.
-- eTable1 각주의 별도 final temporal Brier 비교 대상. 현재 제공 파일만으로 불일치 입증 안 됨.
-- eTable3 seed7 temporal AUROC .7344 vs 메일 .7345의 실행 일치 여부 및 delta .0198의 원정밀도 확인. 반올림값끼리 빼서 임의 변경 금지.
-- IRB 승인번호, 저자 학위/교신 연락처 등 원고 빈칸.
+## 김하연 회신 확인 완료 — 2026-11-18
+- Table2 모델별 AUROC/paired delta CI 수신 및 Excel/CSV 일치 확인.
+- eTable1 Brier .323 / eTable3 AUROC .7344 정정 확인; eTable3 delta는 회신 기준 .0197로 수정.
+- eTable1 Brier 불일치 메모는 구버전 메모로 삭제. temporal 개발단계 평가 설명은 유지.
+- [반영 위치 및 Table3 별도 bootstrap 처리](../references/reviews/2026-11-18_colleague_CI_integration.md), [채울 Table2 CSV](../manuscript_updates/Table2_confirmed_CI_20261118.csv).
+- Word 직접 적용은 미완료. IRB 승인번호, 학위/교신 연락처 등 제출 빈칸은 여전히 확인 필요.
 
 ## 도구/검증 한계
 - 업로드 PDF 직접 확인과 참고문헌 목록에서만 발견한 후보를 근거표에서 구분.

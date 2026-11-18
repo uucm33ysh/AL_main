@@ -23,3 +23,5 @@
 - 2026-11-17 Ochs PDF 원문 대조: 9120명/34개/F1 .87→.70 확인. 실제 변수 목록의 수술 관련 항목 때문에 엄격한 preop-only 인용은 제한; 두 문장 최소 수정 제안과 11/18 작업 순서를 기록.
 
 - 2026-11-18 Discussion high-volume 문단: COLRAR PDF2쪽 표준화/quality control 근거 재확인. 문단 기능을 유지하는 최소 수정안과13번 인용 위치 기록(원고 미적용, 논의 중).
+
+- 2026-11-18 김하연 회신4파일 검토. Table2 Excel/CSV 원값 일치, CI 반영 위치와 eTable1 구버전 메모 삭제/eTable3 delta .0197 정정 기록. Table3 및 대응Results의 기존 bootstrap CI 유지. Word 미적용.

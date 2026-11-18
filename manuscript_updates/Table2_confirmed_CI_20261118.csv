@@ -1,0 +1,3 @@
+﻿Evaluation,Preoperative AUROC (95% CI),Full AUROC (95% CI),Difference: full minus preoperative (95% CI)
+AMC held-out (n=545),0.7605 (0.6796 to 0.8320),0.7650 (0.6951 to 0.8302),+0.0045 (-0.0292 to 0.0423)
+KNUH external (n=781),0.6102 (0.5351 to 0.6866),0.6206 (0.5445 to 0.6976),+0.0104 (-0.0213 to 0.0444)
