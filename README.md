@@ -6,6 +6,7 @@
 
 | 위치 | 용도 |
 |---|---|
+| [manuscript_versions/2026-11-18/](manuscript_versions/2026-11-18/) | 최신 업로드 원고 AL_1118·EndNote AL_new 보관본 |
 | [docs/STATUS.md](docs/STATUS.md) | 현재 작업 기준·완료·대기·다음 순서 |
 | [docs/WORKLOG.md](docs/WORKLOG.md) | 날짜순 작업 이력과 일별 기록 링크 |
 | [docs/worklogs/](docs/worklogs/) | 날짜별 근거·판단·산출물·미해결 사항 |
