@@ -1,7 +1,7 @@
 # 현재 상태 — 2026-11-19
 
 ## 현재 과제
-TRIPOD+AI 준수 예측모델 선행연구의 변수 보고 위치(본문/보충방법/특성표/별도정의표)를 비교한 뒤 우리 원고의 보완 형식 결정. 별도 eTable4 추가는 미확정. 새 모델 학습/전처리 변경/spline 결합은 하지 않음.
+JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료. Full 30개와 Preop 23개를 대조하는 보충 변수 정의표를 권고하며 eTable 4 추가는 미확정. 수술 전 eGFR은 <60 vs ≥60 mL/min/1.73 m²로 표기하기로 확정했고 최신 원고 반영은 대기 중. [최종 검토 기록 및 원고 문구](checklists/2026-11-19_predictor_reporting_final.md). 새 모델 학습/전처리 변경/spline 결합은 하지 않음.
 
 ## 기준 원고·보관
 - 최신 검토 업로드: AL_1119.docx 및 AL_1119_삭제선반영본.docx. 이 파일들은 작업 첨부 경로에 있으며 원고 자체는 수정하지 않음.
@@ -17,12 +17,11 @@ TRIPOD+AI 준수 예측모델 선행연구의 변수 보고 위치(본문/보충
 - 체크리스트위치는페이지번호대신정확한절·소절/표·그림명으로관리: [작업용Word](checklists/TRIPOD_AI_location_map_working_20261119.docx).
 
 ## 네트워크·선행연구 검토 상태
-- 사용자게시완료알림뒤재확인에도현재실행환경은동일ID/revision9,허용customhost없음. EuropePMC CONNECT403. 설정초안19개도메인저장은실행적용이아님.
-- 신규TRIPOD+AI준수연구의본문/보충자료비교는미완료. [현재보조사례예비비교및남은단계](checklists/2026-11-19_predictor_reporting_preliminary_comparison.md).
-- Ochs는2015TRIPOD인용으로TRIPOD+AI준수사례아님. Sakamoto본문도명시미확인. 두논문을적합사례라고과장하지않음.
+- 이번 검토 환경에서 제한 없는 네트워크 정책이 적용됐다. Europe PMC 홈페이지·검색 API HTTP 200 및 보충자료 다운로드 확인. 이전 접속 차단은 [예비 검토 기록](checklists/2026-11-19_predictor_reporting_preliminary_comparison.md)에 보관.
+- Shaheen 및 Glass 연구의 본문과 보충자료에서 목록·정의·단위·시점을 대조했다. Ochs와 Sakamoto는 임상 유사 보조 사례다.
 
 ## 보류·다음 작업
-- 실제접속가능한환경에서신규논문/보충자료/checklist확보후보고형식선택. 이전환경에서같은검색을반복하지않음. UI위치추측안내금지.
+- 최신 AL_1119에 확정 eGFR 문구 반영. Table 1은 기존 집계의 범주 방향을 확인하고 레이블 적용. 보충 변수 정의표 채택과 번호는 보류.
 - 원고진행시StudyPopulation에분할별및KNUH n/events병기(TRIPOD21),KNUHUnknown비율추가,정리본남은색/취소선제거. 미적용을완료로기록하지않음.
 - 선정screened/excludedn와흐름도형식교수님확인. IRB/학위/교신/등록·protocol/PPI/data-code-model범위등확인필요.
 - EndNote복원/연결은사용자요청으로보류. 11/24후속공유메일은계획이며발송/완료로간주하지않음.
