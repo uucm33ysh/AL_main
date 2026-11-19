@@ -1,27 +1,33 @@
 # AL manuscript workspace
 
-논문 수정과 근거 검토의 진행 상태를 기록하는 작업 저장소입니다. 원고의 분석 기준은 김하연 선생님의 기존 결과이며, 개인 spline 분석과 assistant 재학습 결과는 엄격히 분리합니다.
+김하연 선생님의 기존 분석을 기준으로 원고·보충자료·참고문헌을 정리합니다. 개인 spline 및 assistant 재학습 결과는 논문 작업과 분리합니다.
 
-## 작업 자료 찾기
+## 지금 사용할 파일
 
-| 위치 | 용도 |
+| 자료 | 파일 |
 |---|---|
-| [manuscript_versions/2026-11-18/](manuscript_versions/2026-11-18/) | 최신 업로드 원고 AL_1118·EndNote AL_new 보관본 |
-| [docs/STATUS.md](docs/STATUS.md) | 현재 작업 기준·완료·대기·다음 순서 |
-| [docs/WORKLOG.md](docs/WORKLOG.md) | 날짜순 작업 이력과 일별 기록 링크 |
-| [docs/worklogs/](docs/worklogs/) | 날짜별 근거·판단·산출물·미해결 사항 |
-| [references/](references/) | EndNote 가져오기용 RIS |
-| [references/reviews/](references/reviews/) | 원문 근거표·인용 추적·라이브러리 점검 |
-| [notebooks/](notebooks/) | Colab 노트북 및 사용자가 올린 기존 결과 |
+| 공식 양식 TRIPOD+AI 체크리스트 — 위치는 절 제목 | [Word 다운로드](docs/checklists/TRIPOD_AI_section_titles_20261119.docx) |
+| 변수 보충표 + legend — 검토용, eTable 4 가칭 | [Word 다운로드](manuscript_updates/supplementary/eTable4_predictor_definitions_draft_20261119.docx) |
+| 전체답장 메일 초안 | [메일 본문](docs/email_drafts/2026-11-19_final_reply_with_checklist.md) |
+| 변수 보고 선행연구 최종 검토 | [근거 기록](docs/checklists/2026-11-19_predictor_reporting_final.md) |
+| 선행연구를 적용한 본문·보충표 권고안 | [반영 방법](docs/checklists/2026-11-19_predictor_reporting_manuscript_recommendation.md) |
+| 실제 변수 목록 Full 30 / Preop 23 | [CSV](manuscript_updates/Preop23_Full30_email_confirmed_inventory_20261119.csv) |
+| 현재 상태와 다음 작업 | [STATUS](docs/STATUS.md) |
 
-## 기록·게시 원칙
+변수 보충표의 WBC·혈소판 단위는 확인 필요 표시가 남아 있습니다. 체크리스트의 `—`는 미확인 보고 위치를 뜻하며, 해당 없음 판정이 아닙니다.
 
-1. 작업 시작 시 STATUS와 최신 일별 로그를 읽습니다.
-2. 일별 로그에 목적 → 확인 자료 → 실제 확인 내용 → 결정/변경 → 산출물 → 대기/다음 작업을 기록합니다.
-3. 이전 기록은 삭제하지 않습니다. 판단이 바뀌면 새 날짜에 정정 이유와 원출처를 남깁니다.
-4. 실제 원문 확인과 모논문의 간접 인용, 검증된 결과와 미확인 후보를 구분합니다.
-5. 새 산출물과 로그를 같은 commit으로 게시하고 사용자에게 GitHub 링크와 commit을 보고합니다. 대화에서 파일 생성과 push 완료를 구분합니다.
-6. 사용자 지시에 따라 참고문헌용 산출물과 작업 기록은 기본적으로 이 저장소에 게시합니다. 개인정보·환자별 자료·전체 계정 로그·인증정보·저작권 논문 PDF는 이 원칙의 자동 게시 대상이 아닙니다.
-7. 문헌은 EndNote에서 삽입하고 자동 번호를 사용합니다. 원고와 라이브러리를 실제 수정했는지 별도로 기록합니다.
+## 보관 자료와 기록
 
-과거 이력은 대화와 남아 있는 파일에서 재구성한 요약이며, 그 당시부터 매일 독립 로그가 존재했다는 뜻은 아닙니다.
+- [원고·EndNote 보관본 AL_1118 / AL_new](manuscript_versions/2026-11-18/): 최신 검토 업로드 AL_1119와 구분합니다.
+- [날짜순 작업 이력](docs/WORKLOG.md) · [일별 기록](docs/worklogs/)
+- [문헌·인용 근거 기록](references/reviews/) · [Park/Zhao RIS](references/verified_Park_Zhao.ris)
+- [기존 노트북·결과](notebooks/)
+- [중복 초안 정리 내역](docs/CLEANUP_20261119.md)
+
+## 관리 원칙
+
+1. 작업 시작 시 STATUS와 최신 일별 로그를 확인합니다.
+2. 최신 산출물과 작업 기록을 함께 커밋·게시합니다. 실제 생성, 검증, 원고 반영, push 상태를 구분합니다.
+3. 시계열 로그와 근거 자료는 보존합니다. 대체된 중복 초안은 정리 내역을 남겨 삭제할 수 있으며 Git 이력에서 복구합니다.
+4. 사용자 원고·라이브러리·원자료·기존 노트북은 중복 초안 정리 대상이 아닙니다. 개인정보·환자별 자료·인증정보·저작권 논문 PDF를 자동 게시하지 않습니다.
+5. 실제 원문 확인과 간접 근거, 확인된 결과와 미확인 내용을 구분합니다. 체크리스트 대응을 위해 새 분석이나 전처리 변경을 임의로 추가하지 않습니다.

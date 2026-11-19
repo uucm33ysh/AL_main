@@ -17,7 +17,7 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 - 체크리스트위치는페이지번호대신정확한절·소절/표·그림명으로관리: [공식양식·절제목Word](checklists/TRIPOD_AI_section_titles_20261119.docx).
 
 ## 네트워크·선행연구 검토 상태
-- 이번 검토 환경에서 제한 없는 네트워크 정책이 적용됐다. Europe PMC 홈페이지·검색 API HTTP 200 및 보충자료 다운로드 확인. 이전 접속 차단은 [예비 검토 기록](checklists/2026-11-19_predictor_reporting_preliminary_comparison.md)에 보관.
+- 지정 커밋 74419a6의 다른 환경 검토에서 Europe PMC HTTP 200과 보충자료 다운로드를 확인한 결과를 사용합니다. 현재 이 대화의 네트워크와 혼동하지 않습니다. 이전 검색 차단 초안은 중복 정리했으며 Git 이력에 보존합니다.
 - Shaheen 및 Glass 연구의 본문과 보충자료에서 목록·정의·단위·시점을 대조했다. Ochs와 Sakamoto는 임상 유사 보조 사례다.
 
 ## 선행검토 적용 권고안
@@ -32,3 +32,6 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 - 원고진행시StudyPopulation에분할별및KNUH n/events병기(TRIPOD21),KNUHUnknown비율추가,정리본남은색/취소선제거. 미적용을완료로기록하지않음.
 - 선정screened/excludedn와흐름도형식교수님확인. IRB/학위/교신/등록·protocol/PPI/data-code-model범위등확인필요.
 - EndNote복원/연결은사용자요청으로보류. 11/24후속공유메일은계획이며발송/완료로간주하지않음.
+
+## 파일 정리
+- 공식 양식 체크리스트·변수 보충표 Word는 이미1043bfc에서게시완료. 대체된초안8개는사용자요청으로현재트리에서삭제; [삭제/복구내역](CLEANUP_20261119.md). 최신파일은README에서바로접근.

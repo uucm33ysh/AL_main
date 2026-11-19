@@ -12,7 +12,7 @@
 -eGFR는cleaning에서개발데이터0/1을보존하고external>=60을1로코딩하는함수가있으나표시명은≤60으로적힌부분이있음. 새로운전처리를요구하는뜻이아니며,최종변수정의표의표시명은이후원본dictionary/actualfeature정의로확인한뒤기입. 이번CSV는labeldraft임을명시.
 
 ## 실제 산출물
--manuscript_updates/Full30_predictor_inventory_20261119.csv:30개이름/코드그룹/Full포함확인,Preop미검증명시. 제출완료표아님.
+- 초기 Preop 미확인 변수목록은 중복 정리로 삭제했으며, 최신 목록은 manuscript_updates/Preop23_Full30_email_confirmed_inventory_20261119.csv를 사용. 초기 상태는 Git 이력에 보존.
 -manuscript_updates/analysis_set_counts_seed7_notebook_20261119.csv:저장출력의집계. 중복행표시.
 
 ## 교수님께 질문할 범위
