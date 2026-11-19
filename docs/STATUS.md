@@ -20,6 +20,9 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 - 이번 검토 환경에서 제한 없는 네트워크 정책이 적용됐다. Europe PMC 홈페이지·검색 API HTTP 200 및 보충자료 다운로드 확인. 이전 접속 차단은 [예비 검토 기록](checklists/2026-11-19_predictor_reporting_preliminary_comparison.md)에 보관.
 - Shaheen 및 Glass 연구의 본문과 보충자료에서 목록·정의·단위·시점을 대조했다. Ochs와 Sakamoto는 임상 유사 보조 사례다.
 
+## 선행검토 적용 권고안
+- 지정74419a6기록을적용한 [원고·보충표·메일권고안](checklists/2026-11-19_predictor_reporting_manuscript_recommendation.md). Shaheen정의사전+Glass모델별포함표를통합한30행보충표권고. eTable4번호/원고적용은미확정. 이번실행에서새원문독립검증안함.
+
 ## 보류·다음 작업
 - 최신 AL_1119에 확정 eGFR 문구 반영. Table 1은 기존 집계의 범주 방향을 확인하고 레이블 적용. 보충 변수 정의표 채택과 번호는 보류.
 - 원고진행시StudyPopulation에분할별및KNUH n/events병기(TRIPOD21),KNUHUnknown비율추가,정리본남은색/취소선제거. 미적용을완료로기록하지않음.

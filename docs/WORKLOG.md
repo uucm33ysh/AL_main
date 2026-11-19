@@ -49,3 +49,5 @@
 - 2026-11-19 사용자지시:체크리스트위치를쪽수대신절제목으로변경. eTable4확정철회,유사TRIPOD+AI연구보고방식검토선행. Ochs는2015TRIPOD로보조사례만인정;신규검색proxy403으로미완료. 사건수문장Results StudyPopulation기존n문장교체/item21메모안정리.
 
 - 2026-11-19 재개지시후runtime확인:동일환경/rev9/customhosts0,EuropePMC403지속. 기존Ochs/Sakamoto본문으로보조보고형식만예비비교(TRIPOD+AI준수사례아님). 미완료범위와형식결정보류명시,STATUS를최신원고/메일확인/절제목매핑기준으로갱신.
+
+- 2026-11-19 사용자지정74419a6검토파일을fetch/fast-forward로반영. 선행검토기록의Shaheen/Glass방식을비교해30행통합보충표권고·9a/9b대응·메일문구수정. 번호확정/원고직접수정/재학습없음.
