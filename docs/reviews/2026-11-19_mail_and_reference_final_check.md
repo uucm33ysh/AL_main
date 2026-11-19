@@ -51,3 +51,6 @@
 - 남은질문:IRB번호,표본수결정/사전산정,protocol접근범위,등록,PPI,실제data/code/model공유범위,subjectiveassessment평가자/블라인딩,최초screened/excludedn및흐름도형식.
 - 본문변경은현재IRB###/미확인저자정보등확인후채우기. protocol접근/data-sharing등은허용범위확인후ArticleInformation/DS문구보완. 등록/PPI사실확인후필요한위치에간략히보고하거나checklist에정확히기술. 모든미시행항목을Methods장문으로추가하지않음. sample-size/assessor내용도실제확인없이만들지않음.
 - 메일문단은파일저장하지않고대화에제공.
+
+## Article Information으로 해소한 중복 질문
+사용자가현재ArticleInformation을재제시. 18a는Funding/Support+FunderRole,18b는COINone,18e데이터/18f코드/22모델접근은DataSharingStatement의deidentifieddata/code/trainedmodel을correspondingauthor에reasonable request로제공한다는문구로보고위치연결가능. 별도로같은공유원칙을다시질문할필요없음.18e/f/22의중복확인필요표시를제거하고위치만기입했다.22전체재현성요건을이한문장만으로완전히충족했다는인증은아니며최종모델설명은Methods/보충표와함께읽음. 공개배포나무조건적공개약속으로해석하지않음. AuthorContributions는평가자/blinding구체정보를대체하지않음. 등록/PPI/IRB/표본수근거/계획서접근등은미확인유지.

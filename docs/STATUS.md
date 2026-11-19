@@ -53,3 +53,6 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 
 ## 최종 공유 체크리스트 표시
 - 미확인항목은“확인 필요”로명시(3c/8b/8c/9a선택근거/9c/10/17승인번호/18c접근범위/18d/18e/f공유범위/19/20a/22). 확인된protocol존재/fairness조정미시행/9b표연결은유지. 최신공유파일같은경로갱신.
+
+## Article Information 재확인
+- 사용자가기재내용을확인:funding/funderrole/COI및data/code/trainedmodel은교신저자reasonable request제공원칙으로보고됨.18e/f/22의같은공유원칙재질문표시제거. protocol접근/registration/PPI/IRB/sample-size/평가자·blinding등은확인필요유지.
