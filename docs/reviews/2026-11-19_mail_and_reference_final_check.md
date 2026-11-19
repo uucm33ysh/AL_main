@@ -43,3 +43,11 @@
 ## 정정 — 사용자 확인이 우선하는 실제 연구 범위
 사용자가 이번 연구에서성별하위집단분석자체를시행하지않았다고명시했다. AMC/KNUH는병원간외부검증이며성별하위집단/fairness평가와혼동하지않는다. 성별분석을수행했다고한앞선해석과그에따른모델버전확인질문은철회한다. 파일의코드/저장출력존재만으로실제원고대상연구에서수행한분석이라고판정한것이잘못이었다. 사용자확인상공정성특화모델조정도시행하지않았다.
 원고에반영할경우사실문구: “Sex-specific model performance was not evaluated, and no fairness-specific model adjustments were applied.” 아직원고에직접삽입한것은아님. item14가단순히무조정한문장만으로모든논거보고까지충족됐다고인증하지않음. 새성별분석을요구하지않음.
+
+## 확인 사실 반영 / 미확인 질문 분리
+- 사용자확인:연구계획서있음.공개/요청시제공가능여부는미확인.현재Methods에studyprotocol/IRBapproval문구가있으므로계획서존재만이유로Methods새문장추가불필요.
+- 사용자확인:성별하위집단분석미시행,공정성특화조정미시행.14에미조정사실기입.원고Methods에별도무조정문장추가하지않음.
+- 연구등록/PPI는사용자도모름.18d/19에확인대기로명시하고미등록/참여없음으로추정안함.18c는계획서존재+접근방식확인대기로기입.
+- 남은질문:IRB번호,표본수결정/사전산정,protocol접근범위,등록,PPI,실제data/code/model공유범위,subjectiveassessment평가자/블라인딩,최초screened/excludedn및흐름도형식.
+- 본문변경은현재IRB###/미확인저자정보등확인후채우기. protocol접근/data-sharing등은허용범위확인후ArticleInformation/DS문구보완. 등록/PPI사실확인후필요한위치에간략히보고하거나checklist에정확히기술. 모든미시행항목을Methods장문으로추가하지않음. sample-size/assessor내용도실제확인없이만들지않음.
+- 메일문단은파일저장하지않고대화에제공.
