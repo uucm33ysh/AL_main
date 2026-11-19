@@ -1,0 +1,6 @@
+﻿cohort,n,AL_events,source
+AMC training subset,1635,70,3_train_single_split_seed7_server_run.ipynb saved output cell 2
+AMC tuning subset,545,24,3_train_single_split_seed7_server_run.ipynb saved output cell 2
+AMC training plus tuning (overlaps preceding rows),2180,94,3_train_single_split_seed7_server_run.ipynb saved output cell 2
+AMC held-out test,545,24,3_train_single_split_seed7_server_run.ipynb saved output cell 2
+AMC total (overlaps all subsets),2725,118,3_train_single_split_seed7_server_run.ipynb saved output cell 2

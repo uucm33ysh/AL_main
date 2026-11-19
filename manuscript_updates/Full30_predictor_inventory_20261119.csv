@@ -1,0 +1,31 @@
+﻿Order,Code variable,Display label from notebook (draft),Group in training code,Full model,Preop model,Notes
+1,Sex,Sex,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+2,Age,"Age, y",Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+3,ASA score,ASA physical status,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+4,BMI,"BMI, kg/m²",Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+5,DM,Diabetes mellitus,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+6,cardiovascular morbidity,Cardiovascular morbidity,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+7,prior abdominal surgery,Prior abdominal surgery,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+8,prior malignancy,Prior malignancy,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+9,tm height from ARJ,"Tumor height from ARJ, cm",Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+10,EMVI,Extramural venous invasion,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+11,MRF,Mesorectal fascia status,Basic characteristics,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+12,neoadj tx,Neoadjuvant treatment,Preoperative treatment,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+13,tumor_response,Tumor response,Preoperative treatment,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+14,ycT,Posttreatment clinical T stage,Preoperative treatment,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+15,ycN,Posttreatment clinical N stage,Preoperative treatment,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+16,yMRF,Posttreatment MRF involvement,Preoperative treatment,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+17,Time to surgery,"Interval to surgery, d",Preoperative treatment,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+18,Type of technique,Surgical approach,Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+19,procedure type,Procedure type,Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+20,optime,"Operative time, min",Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+21,conversion,Conversion to open surgery,Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+22,stapler used,Stapler use,Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+23,stapler used for,Purpose of stapler use,Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+24,stpler type,Stapler type,Intraoperative,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+25,WBC,White blood cell count,Laboratory,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+26,Hb,"Hemoglobin, g/dL",Laboratory,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+27,PLT,Platelet count,Laboratory,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+28,glucose,"Glucose, mg/dL",Laboratory,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+29,AGR,Albumin-to-globulin ratio,Laboratory,Included,Not verified in uploaded ZIP,Clinical definitions/units to be checked against original dictionary
+30,GFR1_MDRD,eGFR ≤60 mL/min/1.73 m²,Laboratory,Included,Not verified in uploaded ZIP,Display labels are not a verified clinical data dictionary; eGFR category boundary/encoding requires source confirmation
