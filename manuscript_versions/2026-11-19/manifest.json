@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "note": "Manuscripts unchanged; current checklist explicitly labels unconfirmed items 확인 필요 and preserves user-confirmed facts.",
+  "note": "Current shared checklist: section titles only for reported locations; unconfirmed locations marked 확인 필요; confirmed nonapplication of fairness-specific adjustments retained. Manuscripts unchanged.",
   "files": [
     {
       "file": "01_AL_원고정리본_20261119.docx",
@@ -17,8 +17,8 @@
     {
       "file": "03_AL_TRIPOD_AI_체크리스트초안_20261119.docx",
       "original_filename": "AL_1119_TRIPODChecklist.docx",
-      "bytes": 72691,
-      "sha256": "50c9f0bff23574e1eebe5080f4ede1e85e997375dd4fbde851ea9ec2b9e1df4c",
+      "bytes": 72230,
+      "sha256": "4342ae2963bc5cde54e2c4bd876ee0dc8e7af35d9c16fd946daf37d5828c7517",
       "updated_items": [
         "10",
         "14",

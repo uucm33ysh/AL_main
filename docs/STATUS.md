@@ -56,3 +56,6 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 
 ## Article Information 재확인
 - 사용자가기재내용을확인:funding/funderrole/COI및data/code/trainedmodel은교신저자reasonable request제공원칙으로보고됨.18e/f/22의같은공유원칙재질문표시제거. protocol접근/registration/PPI/IRB/sample-size/평가자·blinding등은확인필요유지.
+
+## 체크리스트 최종 간결안
+- 최신공유Word위치칸:보고위치있으면절제목만,미확인위치는“확인 필요”만.9a/17/20a에붙던질문삭제,세부미확인은기존작업기록/메일에서관리.18c는계획서접근방식미확인으로확인필요,존재확인사실은기록유지.14미조정사실유지.
