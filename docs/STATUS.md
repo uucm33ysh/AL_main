@@ -43,3 +43,7 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 - 최신 업로드3개파일의GitHub게시를사용자가명시승인. manuscript_versions/2026-11-19의원고2/체크리스트1을정본으로유지.
 - 이전AL_1118및별도중복체크리스트·옛eTable4초안은현재트리에서삭제. 최신EndNote원본은references/libraries/AL_new.enlx로이동. 근거/로그/기존분석보존.
 - 최신WBC/PLT단위는사용자확인후본문보충표에반영완료. 정리본빨강은ResultsFullModelPerformance의0.545끝5와0.698끝8,Discussionclinicalimplications의counseling뒤쉼표. 원고내용을임의수정하지않음.
+
+## 체크리스트 미확인 사항을 좁힌 결과
+- OutcomeDefinition의AL정의·임상확인절차는보고됨. 8b/8c/9c는평가자/주관적판독/블라인딩사실확인필요.
+- 기존노트북에성별등하위집단AUROC출력이있으므로공정성평가미시행으로단정하지않음. 기준모델대응(9번출력.6273 vs본문.6206)·보고범위및별도공정성조치여부만김하연연구원확인. 새분석요청이나결과추가확정아님.
