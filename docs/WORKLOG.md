@@ -31,3 +31,5 @@
 - 2026-11-18 AL_new.enlx 압축/내부문자열점검. Park/Zhao DOI,Frye저자보완확인; %J DOI잔재/저널/Pages보완필요. AL_1117 Frye/Park필드는다른libraryID인점기록. Native앱갱신미검증,원본미변경.
 
 - 2026-11-18 사용자 명시 요청으로 새 업로드 AL_1118.docx와 AL_new.enlx를 manuscript_versions/2026-11-18/에 원본 보관. ZIP CRC 및 SHA-256 복사동일성 확인. 내용수정/연결검증 없음. manifest와최신위치기록.
+
+- 2026-11-19 AL_1118재업로드는11/18보관본과동일확인. CI본문/표일치및본문12pt·수기목록삭제완료확인. .019 7/indㄹependent/Table1각주잔재등남은교정기록. 원고미수정,EndNote작업보류.

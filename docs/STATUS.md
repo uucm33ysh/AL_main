@@ -1,7 +1,7 @@
-# 현재 상태 — 2026-11-18
+# 현재 상태 — 2026-11-19
 
 ## 최신 보관본
-- 사용자 요청으로 [AL_1118.docx 및 AL_new.enlx](../manuscript_versions/2026-11-18/)를 원본 그대로 저장. 저장만 수행했으며 이번 AL_1118의 내용·EndNote 연결 검증은 아직 하지 않음. 아래 AL_1117 검토는 이전 버전 기준.
+- 사용자 요청으로 [AL_1118.docx 및 AL_new.enlx](../manuscript_versions/2026-11-18/)를 원본 그대로 저장. 저장만 수행했으며 AL_1118 내용은11/19재검토완료. EndNote네이티브연결검증은보류. AL_1117기록은이전버전기준.
 
 ## 기준과 범위
 - 최신 업로드 원고: AL_1118.docx. 파일 내용은 변경하지 않고 보관.
@@ -16,12 +16,11 @@
 - 기존 문헌 및 인용을 따라 확보한 Xu/Zhao/COLRAR PDF 검토. supporting source 기록 작성.
 - Park/Zhao 가져오기용 RIS 작성. [references README](../references/README.md) 참조.
 
-## 바로 다음 작업 — 최신 AL_1117 검토 완료
-- [최신 원고 전체 점검·폰트·남은 작업](reviews/2026-11-18_AL_1117_review.md)을 우선 기준으로 사용. 이전 AL_1115 점검보다 최신.
-- Results Full Model Performance에 옛 Full AUROC CI가 남아 Table2 새 bootstrap CI와 KNUH 상한이 다름. 한 문장 삭제 권장(또는 새Table2 CI로 맞추기). Table3에는 AUROC없으며 별도bootstrap설명각주 불필요.
-- Table2/Results/DiscussionCI, eTable1Brier/낡은메모삭제, eTable3AUROC 정정 반영 완료. Table2 괄호/공백 및 eTable3 .019 7 띄어쓰기 교정 필요.
-- 붙여넣은9구간11pt/주변12pt 혼재, Ochs앞 preop-only 예시연결 잔재, Intro빈괄호, Table1KNUH pending각주, 마침표중복 정리.
-- 이후 새16번호 참고문헌/제출빈칸/그림원본/clean회람본 정리. Word 직접 변경하지 않음.
+## 바로 다음 작업 — AL_1118 재업로드 점검 완료
+- [2026-11-19 반영 확인 및 남은 교정](reviews/2026-11-19_AL_1118_recheck.md)을 최신 기준으로 사용. 이번 업로드는11/18보관본과동일.
+- 핵심CI/Results·Discussion/인용수정/본문12pt/수기목록삭제반영완료. Results KNUHCI .545–.698로Table2와일치하므로이전문장삭제권고는해소.
+- eTable3 .019 7→.0197,indㄹependent오타,Table1각주고립마침표및사용자가빼기로한EMVI설명,Discussion제목/공백등소규모교정필요.
+- IRB/학위/연락처/분량빈칸확인후clean/회람준비. EndNote복원/재연결은보류. 원고직접변경하지않음.
 
 ## 김하연 회신 확인 완료 — 2026-11-18
 - Table2 모델별 AUROC/paired delta CI 수신 및 Excel/CSV 일치 확인.
