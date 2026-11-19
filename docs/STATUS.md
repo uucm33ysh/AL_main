@@ -1,35 +1,28 @@
 # 현재 상태 — 2026-11-19
 
-## 최신 보관본
-- 사용자 요청으로 [AL_1118.docx 및 AL_new.enlx](../manuscript_versions/2026-11-18/)를 원본 그대로 저장. 저장만 수행했으며 AL_1118 내용은11/19재검토완료. EndNote네이티브연결검증은보류. AL_1117기록은이전버전기준.
+## 현재 과제
+TRIPOD+AI 준수 예측모델 선행연구의 변수 보고 위치(본문/보충방법/특성표/별도정의표)를 비교한 뒤 우리 원고의 보완 형식 결정. 별도 eTable4 추가는 미확정. 새 모델 학습/전처리 변경/spline 결합은 하지 않음.
 
-## 기준과 범위
-- 최신 업로드 원고: AL_1118.docx. 파일 내용은 변경하지 않고 보관.
-- 논문 수치는 김하연 선생님 분석만 사용. 개인 spline 및 assistant 재학습 결과 제외.
-- 교수님 문안은 가능한 유지하며, 실제 오류/새 분석과 모순되는 부분만 최소 수정.
-- 기존 원자료 전처리 재검토, 신규 모델 개발, 종양 높이 기준 재문의는 현재 범위 아님.
-- 본문 Figure1/2 + Supplementary eFigure1/2. 별도 Supplementary Methods 문서 없음.
+## 기준 원고·보관
+- 최신 검토 업로드: AL_1119.docx 및 AL_1119_삭제선반영본.docx. 이 파일들은 작업 첨부 경로에 있으며 원고 자체는 수정하지 않음.
+- GitHub에 원본 보관된 버전은 [AL_1118 및 AL_new.enlx](../manuscript_versions/2026-11-18/). 최신 업로드와 저장소 보관본을 혼동하지 않음.
+- 김하연 기존 분석만 사용. 교수님 문안 최소 수정. 종양 높이 기준 재문의/새 원자료 처리 검토는 범위 밖.
+- 본문 Figure1/2, eTable1–3/eFigure1–2 유지. 선정 흐름도 복원·Supplementary 배치는 교수님 확인 전 번호 변경 안함.
 
-## 현재 완료
-- 추가 분석 설계/paired 비교/기관별·통합 Results와 보충그림 설명 작업.
-- KNUH Table1 요약값 확인, seed7 temporal Brier 직접 검증.
-- 기존 문헌 및 인용을 따라 확보한 Xu/Zhao/COLRAR PDF 검토. supporting source 기록 작성.
-- Park/Zhao 가져오기용 RIS 작성. [references README](../references/README.md) 참조.
+## 확인 완료
+- Table2 CI 및 Results·Discussion pairedCI, eTable1 Brier .323, eTable3Full .7344/delta .0197 확인.
+- Table3에는 AUROC행없음. 이전 관련 설명오류는 정정됐으며 Table3변경/별도bootstrap각주 불필요.
+- Full30 목록은seed7노트북,Preop23는교수님22개+GFR추가라는김하연메일로확인. [대응목록](../manuscript_updates/Preop23_Full30_email_confirmed_inventory_20261119.csv).
+- AMC학습1635/70AL,튜닝545/24,시험545/24;KNUH781/62AL. [저장출력집계](../manuscript_updates/analysis_set_counts_seed7_notebook_20261119.csv).
+- 체크리스트위치는페이지번호대신정확한절·소절/표·그림명으로관리: [작업용Word](checklists/TRIPOD_AI_location_map_working_20261119.docx).
 
-## 바로 다음 작업 — AL_1118 재업로드 점검 완료
-- [2026-11-19 반영 확인 및 남은 교정](reviews/2026-11-19_AL_1118_recheck.md)을 최신 기준으로 사용. 이번 업로드는11/18보관본과동일.
-- 핵심CI/Results·Discussion/인용수정/본문12pt/수기목록삭제반영완료. Results KNUHCI .545–.698로Table2와일치하므로이전문장삭제권고는해소.
-- eTable3 .0197/AMCFull괄호정상(이전run추출공백지적철회). indㄹependent오타,Table1각주고립마침표및사용자가빼기로한EMVI설명,Discussion제목/공백등소규모교정필요.
-- IRB/학위/연락처/분량빈칸확인후clean/회람준비. EndNote복원/재연결은보류. 원고직접변경하지않음.
+## 네트워크·선행연구 검토 상태
+- 사용자게시완료알림뒤재확인에도현재실행환경은동일ID/revision9,허용customhost없음. EuropePMC CONNECT403. 설정초안19개도메인저장은실행적용이아님.
+- 신규TRIPOD+AI준수연구의본문/보충자료비교는미완료. [현재보조사례예비비교및남은단계](checklists/2026-11-19_predictor_reporting_preliminary_comparison.md).
+- Ochs는2015TRIPOD인용으로TRIPOD+AI준수사례아님. Sakamoto본문도명시미확인. 두논문을적합사례라고과장하지않음.
 
-## 김하연 회신 확인 완료 — 2026-11-18
-- Table2 모델별 AUROC/paired delta CI 수신 및 Excel/CSV 일치 확인.
-- eTable1 Brier .323 / eTable3 AUROC .7344 정정 확인; eTable3 delta는 회신 기준 .0197로 수정.
-- eTable1 Brier 불일치 메모는 구버전 메모로 삭제. temporal 개발단계 평가 설명은 유지.
-- [반영 위치 및 Table3 별도 bootstrap 처리](../references/reviews/2026-11-18_colleague_CI_integration.md), [채울 Table2 CSV](../manuscript_updates/Table2_confirmed_CI_20261118.csv).
-- Word 직접 적용은 미완료. IRB 승인번호, 학위/교신 연락처 등 제출 빈칸은 여전히 확인 필요.
-
-## 도구/검증 한계
-- 업로드 PDF 직접 확인과 참고문헌 목록에서만 발견한 후보를 근거표에서 구분.
-- 웹 검색 API는 마지막 확인 때403; 저장된 네트워크 초안과 현재 적용 상태를 혼동하지 않기. 사용자에게 확인되지 않은 UI 버튼 위치를 추측해 안내하지 않기.
-- EndNote native 앱에서 실제 라이브러리 열기/Word 갱신은 검증하지 못함.
+## 보류·다음 작업
+- 실제접속가능한환경에서신규논문/보충자료/checklist확보후보고형식선택. 이전환경에서같은검색을반복하지않음. UI위치추측안내금지.
+- 원고진행시StudyPopulation에분할별및KNUH n/events병기(TRIPOD21),KNUHUnknown비율추가,정리본남은색/취소선제거. 미적용을완료로기록하지않음.
+- 선정screened/excludedn와흐름도형식교수님확인. IRB/학위/교신/등록·protocol/PPI/data-code-model범위등확인필요.
+- EndNote복원/연결은사용자요청으로보류. 11/24후속공유메일은계획이며발송/완료로간주하지않음.
