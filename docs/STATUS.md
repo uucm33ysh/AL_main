@@ -19,7 +19,7 @@
 ## 바로 다음 작업 — AL_1118 재업로드 점검 완료
 - [2026-11-19 반영 확인 및 남은 교정](reviews/2026-11-19_AL_1118_recheck.md)을 최신 기준으로 사용. 이번 업로드는11/18보관본과동일.
 - 핵심CI/Results·Discussion/인용수정/본문12pt/수기목록삭제반영완료. Results KNUHCI .545–.698로Table2와일치하므로이전문장삭제권고는해소.
-- eTable3 .019 7→.0197,indㄹependent오타,Table1각주고립마침표및사용자가빼기로한EMVI설명,Discussion제목/공백등소규모교정필요.
+- eTable3 .0197/AMCFull괄호정상(이전run추출공백지적철회). indㄹependent오타,Table1각주고립마침표및사용자가빼기로한EMVI설명,Discussion제목/공백등소규모교정필요.
 - IRB/학위/연락처/분량빈칸확인후clean/회람준비. EndNote복원/재연결은보류. 원고직접변경하지않음.
 
 ## 김하연 회신 확인 완료 — 2026-11-18
