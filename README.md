@@ -6,6 +6,7 @@
 
 | 자료 | 파일 |
 |---|---|
+| 최신 회람용 파일 3개 — 업로드 원본의 이름만 정리 | [2026-11-19 원고·체크리스트](manuscript_versions/2026-11-19/) |
 | 공식 양식 TRIPOD+AI 체크리스트 — 위치는 절 제목 | [Word 다운로드](docs/checklists/TRIPOD_AI_section_titles_20261119.docx) |
 | 변수 보충표 + legend — 검토용, eTable 4 가칭 | [Word 다운로드](manuscript_updates/supplementary/eTable4_predictor_definitions_draft_20261119.docx) |
 | 전체답장 메일 초안 | [메일 본문](docs/email_drafts/2026-11-19_final_reply_with_checklist.md) |

@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-19",
+  "note": "Renamed copies only; uploaded content unchanged",
+  "files": [
+    {
+      "file": "01_AL_원고정리본_20261119.docx",
+      "original_filename": "AL_1119_정리본.docx",
+      "bytes": 589727,
+      "sha256": "906395306d78b77bd33ff244463775686de4ba5621a409759299bb7fa542e10b"
+    },
+    {
+      "file": "02_AL_원고수정표시본_20261119.docx",
+      "original_filename": "AL_1119_수정표시본.docx",
+      "bytes": 590666,
+      "sha256": "02c7fbc2089e351b1ec185b7f4e8a42039c8c0048881fadc17d1c2b65e88fc6e"
+    },
+    {
+      "file": "03_AL_TRIPOD_AI_체크리스트초안_20261119.docx",
+      "original_filename": "AL_1119_TRIPODChecklist.docx",
+      "bytes": 72136,
+      "sha256": "51b7dd7997f9e3b407f3a184765af0da1e1e3c9091b6a1f6b803a6973756b0a4"
+    }
+  ]
+}
