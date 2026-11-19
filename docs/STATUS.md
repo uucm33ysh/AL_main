@@ -14,7 +14,7 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 - Table3에는 AUROC행없음. 이전 관련 설명오류는 정정됐으며 Table3변경/별도bootstrap각주 불필요.
 - Full30 목록은seed7노트북,Preop23는교수님22개+GFR추가라는김하연메일로확인. [대응목록](../manuscript_updates/Preop23_Full30_email_confirmed_inventory_20261119.csv).
 - AMC학습1635/70AL,튜닝545/24,시험545/24;KNUH781/62AL. [저장출력집계](../manuscript_updates/analysis_set_counts_seed7_notebook_20261119.csv).
-- 체크리스트위치는페이지번호대신정확한절·소절/표·그림명으로관리: [공식양식·절제목Word](checklists/TRIPOD_AI_section_titles_20261119.docx).
+- 체크리스트위치는페이지번호대신정확한절·소절/표·그림명으로관리: [공식양식·절제목Word](../manuscript_versions/2026-11-19/03_AL_TRIPOD_AI_체크리스트초안_20261119.docx).
 
 ## 네트워크·선행연구 검토 상태
 - 지정 커밋 74419a6의 다른 환경 검토에서 Europe PMC HTTP 200과 보충자료 다운로드를 확인한 결과를 사용합니다. 현재 이 대화의 네트워크와 혼동하지 않습니다. 이전 검색 차단 초안은 중복 정리했으며 Git 이력에 보존합니다.
@@ -24,7 +24,7 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 - 지정74419a6기록을적용한 [원고·보충표·메일권고안](checklists/2026-11-19_predictor_reporting_manuscript_recommendation.md). Shaheen정의사전+Glass모델별포함표를통합한30행보충표권고. eTable4번호/원고적용은미확정. 이번실행에서새원문독립검증안함.
 
 ## 새 Word 산출물
-- [변수 보충표+legend 초안](../manuscript_updates/supplementary/eTable4_predictor_definitions_draft_20261119.docx). eTable4가칭;30행/Preop23확인. WBC/PLT단위는확인필요각주표시. 본문직접삽입안함.
+- [현재 원고 내 eTable 4](../manuscript_versions/2026-11-19/01_AL_원고정리본_20261119.docx). eTable4가칭;30행/Preop23확인. WBC/PLT단위는확인필요각주표시. 본문직접삽입안함.
 - 체크리스트는공식5열/문구/색상을유지하고위치만절제목으로간결화. 상태/후속메모는별도기록.
 
 ## 보류·다음 작업
@@ -38,3 +38,8 @@ JAMA Network Open 선행연구 2편의 본문·보충자료 직접 비교 완료
 
 ## 최신 회람 전 확인
 - [파일·메일·인용/서지대조](reviews/2026-11-19_mail_and_reference_final_check.md). eTable4단위/Methods인용/9b연결반영완료. 정리본빨간숫자·쉼표/Table1제목and만정리필요. reference기술적정리는11/24후속계획. 메일은파일저장안함.
+
+## 사용자 승인 후 현재 공유 버전만 유지
+- 최신 업로드3개파일의GitHub게시를사용자가명시승인. manuscript_versions/2026-11-19의원고2/체크리스트1을정본으로유지.
+- 이전AL_1118및별도중복체크리스트·옛eTable4초안은현재트리에서삭제. 최신EndNote원본은references/libraries/AL_new.enlx로이동. 근거/로그/기존분석보존.
+- 최신WBC/PLT단위는사용자확인후본문보충표에반영완료. 정리본빨강은ResultsFullModelPerformance의0.545끝5와0.698끝8,Discussionclinicalimplications의counseling뒤쉼표. 원고내용을임의수정하지않음.
